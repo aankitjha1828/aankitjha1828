@@ -3,7 +3,7 @@
 🎓 **BCA Graduate** from Babasaheb Bhimrao Ambedkar Bihar University  
 🔍 Data Science Enthusiast | Aspiring Data Analyst  
 💡 Passionate about analyzing data, building ML models, and solving real-world problems  
-🌱 Currently exploring: **Deep Learning** & **Advanced SQL**
+🌱 Currently exploring: **Machine Learning** & **Deep Learning**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=aankitjha1828&color=brightgreen&style=flat-square)
 
