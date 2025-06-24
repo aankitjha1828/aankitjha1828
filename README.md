@@ -35,15 +35,12 @@
 
 ## 📂 Featured Projects
 
-### 📊 E-Commerce Website  
-![E-Commerce Project](https://github.com/aankitjha1828/aankitjha1828/assets/your-image-id)  
+### 📊 E-Commerce Website   
 🔗 [Live Demo](https://e-commerce-hajipur.netlify.app) | 💻 HTML, CSS, JavaScript
 
 ### 🗺️ India Data Visualization  
-![India Data Visualization](https://github.com/aankitjha1828/aankitjha1828/assets/your-image-id)  
 🔗 [GitHub Repo](#) | 🐍 Python, Pandas, Plotly, Streamlit
 
-> 💡 *You can replace these image URLs and links with actual banners and project URLs.*
 
 ---
 
@@ -51,8 +48,6 @@
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=aankitjha1828&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aankitjha1828&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=aankitjha1828&theme=radical)](https://git.io/streak-stats)  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aankitjha1828&theme=radical&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -65,7 +60,7 @@
 
 ---
 
-> *“Learning never exhausts the mind.” – Leonardo da Vinci*
+> *“Arise, awake, and stop not till the goal is reached.” – Swami Vivekananda*
 
 Thanks for visiting! 🚀  
 Let’s explore the world of data together!
