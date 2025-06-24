@@ -1,9 +1,26 @@
 # ✨ Hi, I'm Ankit Kumar
 
 🎓 **BCA Graduate** from Babasaheb Bhimrao Ambedkar Bihar University  
-🔍 **Data Science Enthusiast** | Aspiring **Data Analyst**  
+🔍 Data Science Enthusiast | Aspiring Data Analyst  
 💡 Passionate about analyzing data, building ML models, and solving real-world problems  
 🌱 Currently exploring: **Deep Learning** & **Advanced SQL**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=aankitjha1828&color=brightgreen&style=flat-square)
+
+---
+
+## 🧠 Skills & Certifications
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2C5AA0?style=flat-square&logo=matplotlib&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -16,30 +33,39 @@
 
 ---
 
+## 📂 Featured Projects
+
+### 📊 E-Commerce Website  
+![E-Commerce Project](https://github.com/aankitjha1828/aankitjha1828/assets/your-image-id)  
+🔗 [Live Demo](https://e-commerce-hajipur.netlify.app) | 💻 HTML, CSS, JavaScript
+
+### 🗺️ India Data Visualization  
+![India Data Visualization](https://github.com/aankitjha1828/aankitjha1828/assets/your-image-id)  
+🔗 [GitHub Repo](#) | 🐍 Python, Pandas, Plotly, Streamlit
+
+> 💡 *You can replace these image URLs and links with actual banners and project URLs.*
+
+---
+
 ## 📈 GitHub Stats & Visuals
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=aankitjha1828&theme=radical&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📊 GitHub Stats
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=aankitjha1828&show_icons=true&theme=radical)
-
-### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=aankitjha1828&theme=radical&border_radius=5)](https://git.io/streak-stats)
-
-### 💬 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aankitjha1828&layout=compact&theme=radical)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=aankitjha1828&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aankitjha1828&layout=compact&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=aankitjha1828&theme=radical)](https://git.io/streak-stats)  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aankitjha1828&theme=radical&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/aankitjha1828/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:akjha06321@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:akjha06321@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/aankitjha1828/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/aankitjha1828)
 
 ---
 
 > *“Learning never exhausts the mind.” – Leonardo da Vinci*
 
 Thanks for visiting! 🚀  
-Let's turn data into powerful insights!
+Let’s explore the world of data together!
